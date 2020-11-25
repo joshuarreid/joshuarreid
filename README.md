@@ -9,4 +9,4 @@
 - Fun Fact: I enjoy photography, cars, and music
 
 ### Spotify Playing
-[<img src="https://now-playing-kingboomie.vercel.app/api/spotify-playing" alt="kingboomie Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-kingboomie.vercel.app/api/spotify-playing" alt="kingboomie Spotify Playing" width="350" />](https://open.spotify.com/user/kingboomie)
