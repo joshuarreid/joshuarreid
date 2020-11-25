@@ -10,5 +10,5 @@
 
 ### Spotify Playing 🎧
 
-&nbsp; <br> [![Spotify](https://now-playing.joshuarreid.vercel.app/api/spotify)](https://open.spotify.com/user/kingboomie)
+[<img src="https://now-playing.joshuarreid.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/kingboomie)
 
