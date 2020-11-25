@@ -9,6 +9,4 @@
 - Fun Fact: I enjoy photography, cars, and music
 
 ### Spotify Playing
-<a href="https://natemoo-re-red.vercel.app/now-playing?open">
-    <img src="natemoo-re-red.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[![Spotify](https://now-playing.joshuarreid.vercel.app/api/spotify)](https://open.spotify.com/user/kingboomie)
