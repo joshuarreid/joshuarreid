@@ -6,9 +6,7 @@
 - I am currently working on an improved music recommendation system
 - I'm looking to collaborate with other content creators
 - 2020 Goals: Complete as many personal projects as possible
-- Fun Fact: I enjoy photography, cars, and music
+- Fun Fact: I enjoy photography :camera:, cars :red_car:, and music :musical_note:
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing.joshuarreid.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/kingboomie)
 
