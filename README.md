@@ -8,7 +8,7 @@
 - 2020 Goals: Complete as many personal projects as possible
 - Fun Fact: I enjoy photography, cars, and music
 
-### Spotify Playing 🎧
-
-[<img src="https://joshuarreid.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/kingboomie)
-
+### Spotify Playing
+<a href="https://natemoo-re-red.vercel.app/now-playing?open">
+    <img src="natemoo-re-red.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
