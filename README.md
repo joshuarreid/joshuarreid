@@ -1,7 +1,7 @@
 # Welcome to my workspace!
 
 
-## I am a third year Georgia Tech :bee: computer science major. 
+## :bee: I am a third year Georgia Tech computer science major. :bee:
 
 - Computer Science and music are my passion, so why not combine the two?
 - My current project is a ML-based improved music recommendation system 
