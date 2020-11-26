@@ -21,7 +21,7 @@
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 ### Connect with me:
-<img align ="left" alt="Codecademy" width="26px" src="<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"/>[Codecademy]
+<img align ="left" alt="Codecademy" width="26px" src="<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"/>
 
 
                                                                                            
