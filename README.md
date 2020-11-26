@@ -19,6 +19,11 @@
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="Intellij" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+
+### Connect with me:
+[<img align ="left" alt="Codecademy" src="<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"/>][Codecademy]
+
+
                                                                                            
 
 
