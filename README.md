@@ -23,7 +23,7 @@
 <br />
 
 ## Connect with me:
-[<img align="left" alt="Codecademy" width="26px" src="https://avatars3.githubusercontent.com/u/1463944?s=200&v=4"/>][Codecademy](https://www.codecademy.com/profiles/Joshuarreid45)
+[<img align="left" alt="Codecademy" width="26px" src="https://avatars3.githubusercontent.com/u/1463944?s=200&v=4"/>](https://www.codecademy.com/profiles/Joshuarreid45)
 
 
                                                                                            
