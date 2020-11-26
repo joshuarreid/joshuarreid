@@ -20,6 +20,8 @@
 <img align="left" alt="Intellij" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
+<br />
+
 ## Connect with me:
 <img align="left" alt="Codecademy" width="26px" src="https://avatars3.githubusercontent.com/u/1463944?s=200&v=4"/>
 
