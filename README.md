@@ -8,7 +8,8 @@
 - 2020 Goals: Complete as many personal projects as possible
 - Fun Fact: I enjoy photography :camera:, cars :red_car:, and music :musical_note:
 
-### Languages and Tools:
+
+<br />
 
 ### Languages and Tools:
 
@@ -33,4 +34,3 @@
 <br />
 
 ---
-
