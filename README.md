@@ -5,6 +5,7 @@
 
 - Computer Science and music are my passion, so why not combine the two?
 - My current project is a ML-based improved music recommendation system 
+- Currently working to obtain my AWS Certification
 - 2020 Goals: Complete as many personal projects as possible 
 - Fun Fact: I enjoy photography :camera:, cars :red_car:, and ukulele :musical_note:
 
