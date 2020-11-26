@@ -21,7 +21,7 @@
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 ### Connect with me:
-<img align="left" alt="Codecademy" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fcodecademy&psig=AOvVaw0TEUZrd6oWBX9qH97MB7oU&ust=1606438091205000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCGgbD-nu0CFQAAAAAdAAAAABAI"/>
+<img align="left" alt="Codecademy" width="26px" src="https://avatars3.githubusercontent.com/u/1463944?s=200&v=4"/>
 
 
                                                                                            
