@@ -25,7 +25,7 @@
 ## Relevant Coursework:
 - Intro to Computing (Java)
 - Object Oriented Programming (Java / JavaFx)
-- Data Struct & Algorithms
+- Data Struct & Algorithms (In-Progress)
 - Discrete Mathematics
 - Differential Calculus
 - Integral Calculus
