@@ -22,6 +22,17 @@
 
 <br />
 
+## Relevant Coursework:
+* Intro to Computing (Java)
+* Object Oriented Programming (Java / JavaFx)
+* Data Struct & Algorithms
+* Discrete Mathematics
+* Differential Calculus
+* Integral Calculus
+* Linear Algebra
+
+<br />
+
 ## Connect with me:
 [<img align="left" alt="Codecademy" width="26px" src="https://avatars3.githubusercontent.com/u/1463944?s=200&v=4"/>](https://www.codecademy.com/profiles/Joshuarreid45)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joshua-reid-9a18361b4/)
