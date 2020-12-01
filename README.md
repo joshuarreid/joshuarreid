@@ -27,11 +27,12 @@
 ## Relevant Coursework:
 - Intro to Computing *(Java)*
 - Object Oriented Programming *(Java / JavaFx)*
-- Data Struct & Algorithms *(In-Progress)*
 - Discrete Mathematics
 - Differential Calculus
 - Integral Calculus
 - Linear Algebra
+- Data Struct & Algorithms *(Spring 2021)*
+- Objects and Design *(Spring 2021)*
 
 <br />
 
