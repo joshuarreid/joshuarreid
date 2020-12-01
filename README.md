@@ -6,7 +6,6 @@
 - Computer Science and music are my passion, so why not combine the two?
 - My current projects are focused on automating the process of finding new music 
 - Currently working to obtain my AWS Certification
-- 2020 Goals: Complete as many personal projects as possible 
 - Fun Facts: I am a PC Gamer :computer_mouse:, car enthusiast :oncoming_automobile:, and enjoy playing ukulele :musical_note:
 
 
