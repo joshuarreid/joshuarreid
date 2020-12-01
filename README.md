@@ -7,7 +7,7 @@
 - My current project is a ML-based improved music recommendation system 
 - Currently working to obtain my AWS Certification
 - 2020 Goals: Complete as many personal projects as possible 
-- Fun Fact: I enjoy photography :camera:, cars :red_car:, and playing ukulele :musical_note:
+- Fun Fact: I practice photography :camera:, I am a car enthusiast :red_car:, and I enjoy playing ukulele :musical_note:
 
 
 ## Languages and Tools:
