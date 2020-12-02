@@ -6,7 +6,7 @@
 - Computer Science and music are my passion, so why not combine the two?
 - My current projects are focused on automating the process of finding new music 
 - Currently working to obtain my AWS Certification
-- Fun Facts: I am a PC Gamer :desktop_computer:, car enthusiast :oncoming_automobile:, and an avid ukulele player:musical_note:
+- Fun Facts: I am a PC Gamer :desktop_computer:, car enthusiast :oncoming_automobile:, and avid ukulele player:musical_note:
 
 
 ## Languages and Tools:
