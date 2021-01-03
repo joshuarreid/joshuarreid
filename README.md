@@ -34,7 +34,7 @@
 - Objects and Design *(Spring 2021)*
 
 
-## Current 2021 Reading List:
+## Current Reads (2021):
 - [Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
 - [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
 
