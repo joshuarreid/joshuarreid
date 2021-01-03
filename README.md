@@ -33,7 +33,6 @@
 - Data Struct & Algorithms *(Spring 2021)*
 - Objects and Design *(Spring 2021)*
 
-<br />
 
 ## Current 2021 Reading List:
 - [Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
