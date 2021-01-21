@@ -36,10 +36,9 @@
 
 ## Current Reads (2021):
 - [Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
-- [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [Effective Python: 59 Specific Ways to Write Better Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287/ref=sr_1_4?dchild=1&keywords=effective+python&qid=1610851407&s=books&sr=1-4)
-- [Python Requests Essentials](https://www.amazon.com/Python-Requests-Essentials-Rakesh-Chandra/dp/1784395412#ace-g9766277718)
+
 
 <br />
 
