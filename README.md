@@ -30,8 +30,8 @@
 - Differential Calculus
 - Integral Calculus
 - Linear Algebra
-- Data Struct & Algorithms *(In-progress)*
-- Objects and Design *(In-progress)*
+- Data Struct & Algorithms *(Java)*
+- Team Based Object Oriented Programming *(Java / JavaFx)*
 
 
 ## Current Reads (2021):
