@@ -27,9 +27,6 @@
 - Intro to Computing *(Java)*
 - Object Oriented Programming *(Java / JavaFx)*
 - Discrete Mathematics
-- Differential Calculus
-- Integral Calculus
-- Linear Algebra
 - Data Struct & Algorithms *(Java)*
 - Team Based Object Oriented Programming *(Java / JavaFx)*
 - Artificial Intelligence
