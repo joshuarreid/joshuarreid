@@ -32,6 +32,9 @@
 - Linear Algebra
 - Data Struct & Algorithms *(Java)*
 - Team Based Object Oriented Programming *(Java / JavaFx)*
+- Artificial Intelligence
+- Design and Analysis of Algorithms
+- Bottom to Top Computer Organization & Programming
 
 
 ## Current Reads (2021):
