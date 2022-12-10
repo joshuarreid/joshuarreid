@@ -5,7 +5,6 @@
 
 - Computer Science and music are my passion, so why not combine the two?
 - My current projects are focused on automating the process of finding new music 
-- Currently working to obtain my AWS Certification
 - Fun Facts: I am a PC Gamer :desktop_computer:, car enthusiast :oncoming_automobile:, and avid ukulele player:musical_note:
 
 
@@ -31,7 +30,9 @@
 - Team Based Object Oriented Programming *(Java / JavaFx)*
 - Artificial Intelligence
 - Design and Analysis of Algorithms
-- Bottom to Top Computer Organization & Programming
+- Computer Organization
+- Natural Language Processing
+- Cognitive Science of Computing
 
 
 ## Current Reads:
