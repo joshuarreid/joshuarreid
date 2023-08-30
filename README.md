@@ -1,7 +1,7 @@
 # Welcome to my workspace!
 
 
-## :bee: I am a fourth year Georgia Tech computer science major. :bee:
+## :bee: I am a Georgia Tech computer science graduate. :bee:
 
 - Computer Science and music are my passion, so why not combine the two?
 - My current projects are focused on automating the process of finding new music 
