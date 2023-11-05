@@ -22,18 +22,6 @@
 
 <br />
 
-## Relevant Coursework:
-- Intro to Computing *(Java)*
-- Object Oriented Programming *(Java / JavaFx)*
-- Discrete Mathematics
-- Data Struct & Algorithms *(Java)*
-- Team Based Object Oriented Programming *(Java / JavaFx)*
-- Artificial Intelligence
-- Design and Analysis of Algorithms
-- Computer Organization
-- Natural Language Processing
-- Cognitive Science of Computing
-
 
 ## Current Reads:
 - [Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
