@@ -2,10 +2,7 @@
 
 
 ## :bee: I am a Georgia Tech computer science graduate. :bee:
-
-- Computer Science and music are my passion, so why not combine the two?
-- My current projects are focused on automating the process of finding new music 
-- Fun Facts: I am a PC Gamer :desktop_computer:, car enthusiast :oncoming_automobile:, and avid ukulele player:musical_note:
+- Majority of my projects are simple automations for tasks in my personal life!
 
 
 ## Languages and Tools:
