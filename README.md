@@ -23,7 +23,7 @@
 ## Favorite Reads:
 - [Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
-- [The Design of Everyday Things: Revised and Expanded Edition](https://a.co/d/1aWkcDQ_
+- [The Design of Everyday Things: Revised and Expanded Edition](https://a.co/d/1aWkcDQ_)
 
 
 <br />
